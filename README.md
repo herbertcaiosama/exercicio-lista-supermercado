@@ -2,4 +2,4 @@
 
 ## → Criar uma página com uma lista de compras para o supermercado separando os itens por seções (hortifruti, padaria, higiene, mercearia, limpeza etc).
 
-![Site](./assets/image.pngimage.png)
+![Site](https://github.com/herbertcaiosama/exercicio-lista-supermercado/blob/main/assets/image.png)
